@@ -291,6 +291,7 @@
       <root url="file://$PROJECT_DIR$/../../insionng/sdc/plugin/goquery/testdata" />
       <root url="file://$PROJECT_DIR$/../../golang/lint/.git" />
       <root url="file://$PROJECT_DIR$/../../gopherjs/gopherjs/.git" />
+      <root url="file://$PROJECT_DIR$/.git" />
       <root url="file://$PROJECT_DIR$/../../../code.google.com/p/go-uuid/uuid/.git" />
       <root url="file://$PROJECT_DIR$/../../russross/blackfriday/testdata" />
       <root url="file://$PROJECT_DIR$/../../russross/blackfriday/.git" />
